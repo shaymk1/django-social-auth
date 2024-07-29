@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+# import smart_imports
+# smart_imports.all()

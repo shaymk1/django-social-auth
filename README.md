@@ -1,7 +1,7 @@
 
 # django-social-auth
 
-This is a project to showcase how you can use Social Sign On with Django.
+This is a project to showcase how you can use Social Sign On with Django. We are using built in package called django-allauth.
 
 ## Features
 
